@@ -1,0 +1,13 @@
+name = "CreateTech Modpack"
+author = "meeeeee"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3909268a004687c17e8597d89fb2bddb3186b0be3c94353f8fb1c1fab7980b0c"
+
+[versions]
+forge = "47.3.7"
+minecraft = "1.20.1"
